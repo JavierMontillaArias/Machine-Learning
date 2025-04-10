@@ -1,1 +1,2 @@
 # Machine-Learning
+This repository showcases a collection of introductory Machine Learning projects and Jupyter notebooks. It covers both supervised and unsupervised learning techniques, with implementations of key algorithms such as Linear Regression, Logistic Regression, K-Nearest Neighbors (KNN), and Decision Trees. The code is written in Python and leverages industry-standard libraries including Scikit-learn, Pandas, NumPy, and Matplotlib.
